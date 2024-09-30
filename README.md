@@ -20,3 +20,6 @@ git restore README.md #to restore file before adding to stage to its unmodified 
 git rm --cached README.md # To remove from staging
 
 New Branch
+
+Created an new brach localy using-> Git checkout -b "Name"
+Switch between brach using -> git checkout "name"
